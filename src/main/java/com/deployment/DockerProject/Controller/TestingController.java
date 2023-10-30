@@ -8,6 +8,6 @@ public class TestingController {
     @GetMapping("test")
     public String testContainer(){
 
-        return "Docker test result : OK";
+        return "Docker test results  : OK";
     }
 }
